@@ -15,10 +15,6 @@ public class HelloSpringController {
 		
 		model.addAttribute("message", "hello Spring MVC");
  
-<<<<<<< HEAD
-		//welcomepage
-=======
->>>>>>> refs/remotes/origin/master
 		return "welcome";
 	
 			
