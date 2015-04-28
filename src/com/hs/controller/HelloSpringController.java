@@ -15,6 +15,7 @@ public class HelloSpringController {
 		
 		model.addAttribute("message", "hello Spring MVC");
  
+		//welcomepage
 		return "welcome";
 	
 			
